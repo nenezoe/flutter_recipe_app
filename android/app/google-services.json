@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253795973524",
+    "project_id": "flutterboardapp-da409",
+    "storage_bucket": "flutterboardapp-da409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253795973524:android:a9af4d2a138d709ab1f781",
+        "android_client_info": {
+          "package_name": "com.nene.flutter_recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253795973524-do97csoa2ibkhivn0u6j8niaq1nrekuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Bzo1TYUiYfNn27Qg5Vdtu_r5Fh-cSQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253795973524-do97csoa2ibkhivn0u6j8niaq1nrekuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
